@@ -19,7 +19,7 @@ public class Employee {
 	private String name;
 	private String gender;
 	private Integer contactno;
-	
+	//private Integer phno;
 	
 	public Employee() {
 		
