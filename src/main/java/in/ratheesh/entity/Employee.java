@@ -6,6 +6,8 @@ import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
 import jakarta.persistence.Table;
 
+
+//establishing the connection between entity class & database
 @Entity
 @Table(name = "empdata")
 public class Employee {
